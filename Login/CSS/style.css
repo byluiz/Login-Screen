@@ -12,7 +12,7 @@
 body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("/ASSETS/BG.png");
+    background-image: url("/Login/ASSETS/BG.png");
     animation-name: zoom;
     animation-duration: 50s;
     background-position: center;
